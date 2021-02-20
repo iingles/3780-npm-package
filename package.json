@@ -1,0 +1,16 @@
+{
+  "name": "@iingles/3780-npm-package",
+  "version": "1.0.0",
+  "description": "NPM package assignment for dgm3780 at Utah Valley University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "package"
+  ],
+  "author": "Isaac Ingles",
+  "license": "MIT"
+}
